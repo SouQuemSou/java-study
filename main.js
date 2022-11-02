@@ -1,0 +1,1 @@
+document.querySeletor('tecla_pom')
